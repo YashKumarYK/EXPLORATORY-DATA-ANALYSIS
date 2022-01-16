@@ -44,7 +44,7 @@ The scatterplot shows that the Happiness score is linearly dependent on the Econ
 
 #### Social Support vs Happiness score
 The Family have the same meaning as Social Support does
-A family always makes a good environment around them. An environment of joy is always there. This fact is also explained by the fact. Having a family possesses happiness. The Plot shows that the Happiness score is almost linearly dependent on the Social Support factor.
+A family always makes a good environment around them. An environment of joy is always there. This is also explained by the fact that having a family possesses happiness. The Plot shows that the Happiness score is almost linearly dependent on the Social Support factor.
 
  
 For the years 2016, 2017,2018,2019 the same trend is followed and the correlation does not vary too much. Plots are also similar for the year 2016–2019. The correlation matrix for each year is shown in the Python Notebook.
