@@ -2,7 +2,9 @@
 
 So before jumping on the World Happiness Report, let's try to understand the World Happiness Index. So basically, the World Happiness Index is just a ranking based on how happy the citizen of a country consider themselves to be. About 156 countries are ranked based on this index.
 The World Happiness Report is published by the United Nations Sustainable Development Solutions Network. It contains topics and measurements of world happiness, based on the responses of the respondents of their lives, a report that is also associated with a variety of (quality) life items.
+
 If we talk about the report of this Happiness Index for the year- 2020, Finland has been named Happiest Country in the world for the fourth time in a row.
+
 Now, you are wondering about the factors on which the Happiness score is calculated. Let’s talk about them in the next section.
 
 ## Factors based on which countries are ranked in the World Happiness Index
@@ -25,7 +27,7 @@ The important thing to check the dataset that whether it has some null values on
  The above image shows that none of the columns has null values. so it’s good for us.
 Once we get confirmed about the existence of any null values. Let’s check the correlation matrix of the data. The following cell can be used for this purpose.
  
-the output would be a heatmap showing the correlation matrix.
+The output would be a heatmap showing the correlation matrix.
  
 For the year 2015, the happiest country in the world is Switzerland
 
@@ -46,13 +48,17 @@ A family always makes a good environment around them. An environment of joy is a
 
  
 For the years 2016, 2017,2018,2019 the same trend is followed and the correlation does not vary too much. Plots are also similar for the year 2016–2019. The correlation matrix for each year is shown in the Python Notebook.
+
 For the year 2016, the happiest country in the world is Denmark
+
 For the year 2017, the happiest country in the world is Norway.
+
 For the year 2018, the happiest country in the world is Finland
+
 For the year 2019, the happiest country in the world is Finland.
  
 ### Conclusion Made From this Trend
-1.	The economy plays an important role while calculating the Happiness Score. Higher the economy more will be the resource to fulfill in daily life.
+1.	The economy plays an important role while calculating the Happiness Score. Higher the economy more will be the resource to fulfill the daily needs.
 2.	Social support is a factor that covers many other aspects. If there is better social support, mental health would also be good as there are supporters for the individual which keeps him motivated in every situation. So, the Health factor is also correlated with Social support.
 3.	generosity is like giving your time, talent, or resources, and expecting nothing in return and it has been proven to be good for our health. Generous individuals are personally more fulfilled, happier, and more peaceful within themselves, not to mention more productive at home and in the workplace.
 
